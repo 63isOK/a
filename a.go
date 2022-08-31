@@ -5,5 +5,5 @@ type Obj struct {
 }
 
 func (o Obj) Sum() int {
-	return o.A + o.B
+	return o.A + o.B + o.C
 }
